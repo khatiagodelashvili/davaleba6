@@ -2,7 +2,6 @@
 width: 1165px;
 margin: 0 auto;
 padding-top: 21px;
-border: 1px solid black;
 background: #F5F5F5;
 }
 h6{
@@ -10,14 +9,16 @@ font-weight: 700;
 font-size: 11px;
 display: inline-block;
 margin-right: 35px;
-color: #000000;
+font-weight: bold;
 }
 .container1{
     background: #F5F5F5;
     width: 1166px;
     margin: 0 auto;
     padding-top: 42px;
-    border: 1px solid black;
+    }
+    h1{
+        font-weight: 700;
     }
  .erti{
 width: 362px;
@@ -47,7 +48,6 @@ margin-left:35px;
     margin-top: 51px;
 }
 .racari{
-border: 1px solid black;
  width: 362px;
 height: 171px;
 background: #FFFFFF;
@@ -67,4 +67,57 @@ display: inline-block;
 }
 .inm{
     margin-left: 11px;
+    display: inline-block;
+}
+.iyos{
+ width: 362px;
+height: 171px;
+background: #FFFFFF;
+display: inline-block;
+vertical-align: top;
+margin-left:35px ;
+display: inline-block;
+}
+.imn{
+    margin-left: 40px;
+    margin-top: 11px;
+    display: inline-block;
+}
+.clasi{
+    margin-left:11px;
+    display: inline-block;
+}
+.mesame{
+    display: inline-block;
+ width: 362px;
+height: 171px;
+background: #FFFFFF;
+vertical-align: top;
+margin-left:35px;
+}
+/* aq daviwye meore kont */
+.foto1{
+    display: inline-block;
+    margin-top: 30px;
+    vertical-align: top;
+}
+.foto2{
+    display: inline-block;
+    margin-left: 40px;  
+      margin-top: 30px;
+}
+.foto3{
+    width: 758px;
+height: 430px;
+    margin-top:22px;
+display:inline-block
+
+}
+.foto4{
+    width: 362px;
+height: 212px;
+margin-left:40px;
+margin-bottom: 365px;
+display:inline-block
+
 }
