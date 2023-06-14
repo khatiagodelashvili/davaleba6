@@ -44,6 +44,7 @@ margin-left:35px;
 .container2{
     background: #F5F5F5;
     width: 1166px;
+    height: 994px;
     margin: 0 auto;
     margin-top: 51px;
 }
@@ -99,25 +100,20 @@ margin-left:35px;
 .foto1{
     display: inline-block;
     margin-top: 30px;
-    vertical-align: top;
+  
 }
 .foto2{
     display: inline-block;
     margin-left: 40px;  
-      margin-top: 30px;
+      margin-bottom:218px ;
 }
 .foto3{
-    width: 758px;
+ width: 758px;
 height: 430px;
-    margin-top:22px;
+margin-top:40px;
 display:inline-block
-
 }
 .foto4{
-    width: 362px;
-height: 212px;
-margin-left:40px;
-margin-bottom: 365px;
-display:inline-block
-
+    margin-left:40px;
+    margin-top:98px
 }
