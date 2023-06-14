@@ -6,7 +6,6 @@ border: 1px solid black;
 background: #F5F5F5;
 }
 h6{
-
 font-weight: 700;
 font-size: 11px;
 display: inline-block;
@@ -15,7 +14,7 @@ color: #000000;
 }
 .container1{
     background: #F5F5F5;
-    width: 1165px;
+    width: 1166px;
     margin: 0 auto;
     padding-top: 42px;
     border: 1px solid black;
@@ -24,35 +23,48 @@ color: #000000;
 width: 362px;
 height: 186px;
 margin-top: 27px;
+vertical-align: top;
     }
-.notcon{
-    border: 1px solid black;
+    .erti1{
+    margin-left:35px;
     width: 362px;
+height: 186px;
+margin-top: 27px;
+display: inline-block;
+}
+.meramdene{
+width: 362px;
+height: 186px;
+display: inline-block;
+margin-left:35px;
+}
+
+
+.container2{
+    background: #F5F5F5;
+    width: 1166px;
+    margin: 0 auto;
+    margin-top: 51px;
+}
+.racari{
+border: 1px solid black;
+ width: 362px;
 height: 171px;
 background: #FFFFFF;
 display: inline-block;
 }
 h5{
  margin-top: 65px;
-margin-left: 37px;
-font-weight: 700;
+margin-left: 40px;
 font-size: 10px;
 color: #8A8787;
 display: inline-block;
 }
-.mesame{
-    margin-left: 37px;
-    margin-top:11px;
-    display: inline-block;
+.arafrri{
+margin-top:11px;
+margin-left:40px; 
+display: inline-block;
 }
-.meotxe{
-    margin-left:11px;
-    margin-top:8px;
-    display: inline-block;
-}
-.container2{
-    background: #F5F5F5;
-    width: 1165px;
-    margin: 0 auto;
-    margin-top: 51px;
+.inm{
+    margin-left: 11px;
 }
