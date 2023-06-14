@@ -1,0 +1,41 @@
+.container{
+width: 1165px;
+margin: 0 auto;
+padding-top: 21px;
+border: 1px solid black;
+background: #F5F5F5;
+}
+h6{
+
+font-weight: 700;
+font-size: 11px;
+display: inline-block;
+margin-right: 35px;
+color: #000000;
+}
+.container1{
+    background: #F5F5F5;
+    width: 1165px;
+    margin: 0 auto;
+    padding-top: 42px;
+    border: 1px solid black;
+    }
+ .erti{
+width: 362px;
+height: 186px;
+margin-top: 27px;
+    }
+.notcon{
+    border: 1px solid black;
+    width: 362px;
+height: 171px;
+background: #FFFFFF;
+}
+h5{
+ margin-top: 65px;
+margin-left: 37px;
+font-weight: 700;
+font-size: 10px;
+color: #8A8787;
+}
+
